@@ -50,19 +50,6 @@ sidebar:
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
     - degree: Computer Engineering and informatics department
       university: University of Ptras
       time: 2013 - 2019
@@ -72,21 +59,8 @@ education:
 projects:
     title: Using eye-tracking
     intro: >
-      This paper analyzes online advertising and evaluates the different types of ads on a website. The first chapter presents the problem of the task, the objectives of the problem and the methods of approaching it. The history of online advertising is then analyzed. In fact, its first appearance dates back to 1978 and describes the various types of ads that a user can view online as well as an analysis of modern marketing methods. Within the framework of the diploma, an electronic shop (e-shop) was also created which includes products of the following categories Gaming & VR, Laptops, Smartphones, Tvs. The purpose of this store was to evaluate the effectiveness of the various types of online advertising available today using an eye-tracker and a questionnaire.
-
-
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-   
-
+      This paper analyzes online advertising and evaluates the different types of ads on a website. The first chapter presents the problem of the task, the objectives of the problem and the methods of approaching it. The history of online advertising is then analyzed. In fact, its first appearance dates back to 1978 and describes the various types of ads that a user can view online as well as an analysis of modern marketing methods. Within the framework of the diploma, an electronic shop (e-shop) was also created which includes products of the following categories Gaming & VR, Laptops, Smartphones, Tvs. The purpose of this store was to evaluate the effectiveness of the various types of online advertising available today using an eye-tracker and a questionna
+      
 skills:
     title: Skills &amp; Proficiency
 
