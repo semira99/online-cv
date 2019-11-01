@@ -22,19 +22,12 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+languages: 
+    idiom: Greek
+    intem: native
 
-    languages:
-      - idiom: Greek
-        level: Native
-
-      - idiom: German
-        level: Professional
-        
-      - idiom: English
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+    
 
     interests:
       - item: Travelling
