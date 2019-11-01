@@ -24,8 +24,8 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
 languages: 
-    idiom: Greek
-    intem: native
+    - idiom: Greek
+        level: Native
 
     
 
