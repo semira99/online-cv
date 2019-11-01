@@ -16,9 +16,6 @@ sidebar:
     phone: 6943935199
     linkedin: Semira Maria Evangelou
     github: semievans99
-    gitlab:
-    bitbucket:
-    instagram: semira evangelou
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,9 +24,6 @@ sidebar:
       level: native
     - idiom: English
       level: Professional
-     
-    
-      
       
 education:
     - degree: Computer Engineering and informatics department
