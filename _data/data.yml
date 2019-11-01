@@ -23,8 +23,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-   
-   languages:
+    languages:
     - idiom: Greek
       level: native
             
@@ -34,7 +33,7 @@ sidebar:
     - idiom: German
       level: Professional
       
-interests:
+    interests:
     - item: Travelling  
     
       
