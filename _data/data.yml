@@ -25,13 +25,10 @@ sidebar:
     
     languages: 
         - idiom: Greek
+            level: native
             
         - idiom: English
             
-        
-
-    
-
     interests:
       - item: Travelling
         link:
