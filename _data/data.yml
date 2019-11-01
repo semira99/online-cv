@@ -72,9 +72,9 @@ education:
 projects:
     title: Using eye-tracking
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This paper analyzes online advertising and evaluates the different types of ads on a website. The first chapter presents the problem of the task, the objectives of the problem and the methods of approaching it. The history of online advertising is then analyzed. In fact, its first appearance dates back to 1978 and describes the various types of ads that a user can view online as well as an analysis of modern marketing methods. Within the framework of the diploma, an electronic shop (e-shop) was also created which includes products of the following categories Gaming & VR, Laptops, Smartphones, Tvs. The purpose of this store was to evaluate the effectiveness of the various types of online advertising available today using an eye-tracker and a questionnaire.
+
+
 
     assignments:
       - title: Velocity
