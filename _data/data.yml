@@ -22,26 +22,22 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    
-    languages: 
+    interests:
+        - item: Travelling
+   
+     languages:
         - idiom: Greek
           level: native
             
         - idiom: English
+          level: Professional
+         
+        - idiom: German
+          level: Professional
             
-    interests:
-      - item: Travelling
-        link:
-
-      - item: Dancing
-        link:
-
-      - item: Cooking
-        link:
-
     
-
-
+      
+      
 education:
     - degree: Computer Engineering and informatics department
       university: University of Ptras
