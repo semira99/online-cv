@@ -22,6 +22,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
     # Sidebar links
     languages:
     - idiom: Greek
@@ -32,6 +33,7 @@ sidebar:
          
     - idiom: German
       level: Professional
+      
     # Sidebar links 
     interests:
     - item: Travelling  
