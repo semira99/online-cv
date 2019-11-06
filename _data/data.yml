@@ -78,7 +78,10 @@ skills:
       - name: PHP
         level: 70%
 
-      - name: HTML5 & CSS
+      - name: HTML5 
+        level: 95%
+      
+      - name: CSS
         level: 95%
 
       - name: Java
