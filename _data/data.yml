@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: semievans99@gmail.com
-    phone: 6943935199
     linkedin: Semira Maria Evangelou
     github: semira99
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -29,8 +28,14 @@ sidebar:
       
 education:
     - degree: Computer Engineering and informatics department
-      university: University of Ptras
+      university: University of Patras
       time: 2013 - 2019
+    - degree: Master in Human-Computer Interaction
+      university: University of Patras
+      time: 2019 - on going
+    - degree: PhD Candidate
+      university: University of Patras
+      time: 2019 - ongoing
 
 experiences:
     
