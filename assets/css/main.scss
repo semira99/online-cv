@@ -5,5 +5,5 @@
 
 @charset "utf-8";
 
-@import "skins/{{ site.theme_skin | default: 'Blue' }}"; // skin
+@import "skins/{{ site.theme_skin | default: 'Berry' }}"; // skin
 @import "default"; // main partials
